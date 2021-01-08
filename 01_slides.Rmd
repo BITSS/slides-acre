@@ -296,13 +296,11 @@ count: false
 </br>
 .font130[
 
-1. [BITSS](#about-bitss)
+1. [Why Reproducibility](#motivation)
 
-2. [Why Reproducibility](#motivation)
+2. [**ACRE Guidelines**](#guidelines)
 
-3. [**ACRE Guidelines**](#guidelines)
-
-4. [ACRE Platform](#platform)
+3. [ACRE Platform](#platform)
 ]
 
 ---
@@ -1162,13 +1160,11 @@ count: false
 </br>
 .font130[
 
-1. [BITSS](#about-bitss)
+1. [Why Reproducibility](#motivation)
 
-2. [Why Reproducibility](#motivation)
+2. [ACRE Guidelines](#guidelines)
 
-3. [ACRE Guidelines](#guidelines)
-
-4. [**ACRE Platform**](#platform)
+3. [**ACRE Platform**](#platform)
 ]
 ---
 background-image: url(Images/Homepage.png)
